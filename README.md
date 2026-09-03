@@ -3,6 +3,12 @@ I'm Stuart!
 
 I'm a Junior QA Engineer with experience with manual testing (smoke, exploratory, regression) and automation using Playwright/TypeScript, I also API testing and validation through Postman/JavaScript. 
 I previously worked as a Support Consultant working directly with development and product teams to diagnose defects, this plus my current experience gives me a strong foundation in root-cause thinking and clear defect reporting - skills I bring directly to test design, execution, and release quality assessment.
+
+### What am I up to?
+- 📖 Reading: [Project Hail Mary](https://www.goodreads.com/en/book/show/54493401-project-hail-mary) by Andy Weir
+- 🏫 Learning: [Automate the boring stuff with Python](https://automatetheboringstuff.com) by Al Sweigart
+- ⚒️ Making: [Linocut prints](https://www.instagram.com/stueykeane/p/DWO3g79CIWE/)
+- 🕹️ Playing: [D&D - Curse of Strahd](https://www.dndbeyond.com/en/library?search=curse+of+strahd) (as the DM!)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
