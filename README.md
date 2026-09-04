@@ -1,12 +1,12 @@
-## Hi there 👋
-I'm Stuart!
+## Who is Stuart?
 
-I'm a QA Engineer with experience in manual testing (smoke, exploratory, regression) and automation using Playwright/TypeScript, and API testing/validation through Postman and JavaScript. 
-I previously worked as a Support Consultant working directly with development and product teams to diagnose defects, this plus my current experience gives me a strong foundation in root-cause thinking and clear defect reporting - skills I bring directly to test design, execution, and release quality assessment.
+A QA Engineer with hands-on experience across the software development lifecycle, specialising in manual and automated testing, API validation and defect investigation. Experienced in designing and executing smoke, exploratory and regression test strategies, developing automated testing, API validation and defect investigation. Experienced in designing and executing smoke, exploratory and regression test strategies, developing automated coverage with Playwright and TypeScript, and validating APIs using Postman and JavaScript.
+
+I bring a strong engineering mindset to quality assurance, combining technical testing capability with structured root-cause analysis and clear, actionable defect reporting. My previous experience as a Support Consultant involved working directly with development and product teams to investigate complex issues, giving me a strong understanding of how defects move from identification through diagnosis and resolution. I use this experience to challenge requirements, identify risk, strengthen test coverage and provide meaningful quality insight throughout the delivery and release process.
 
 ### What am I up to?
-- 📖 Reading: [Project Hail Mary](https://www.goodreads.com/en/book/show/54493401-project-hail-mary) by Andy Weir
 - 🏫 Learning: [Automate the boring stuff with Python](https://automatetheboringstuff.com) by Al Sweigart
+- 📖 Reading: [Project Hail Mary](https://www.goodreads.com/en/book/show/54493401-project-hail-mary) by Andy Weir
 - ⚒️ Making: [Linocut prints](https://www.instagram.com/stueykeane/p/DWO3g79CIWE/)
 - 🕹️ Playing: [D&D - Curse of Strahd](https://www.dndbeyond.com/en/library?search=curse+of+strahd) (as the DM!)
 <!--
