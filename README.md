@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Stuart!
 
-I'm a Junior QA Engineer with experience in manual testing (smoke, exploratory, regression) and automation using Playwright/TypeScript, and API testing/validation through Postman and JavaScript. 
+I'm a QA Engineer with experience in manual testing (smoke, exploratory, regression) and automation using Playwright/TypeScript, and API testing/validation through Postman and JavaScript. 
 I previously worked as a Support Consultant working directly with development and product teams to diagnose defects, this plus my current experience gives me a strong foundation in root-cause thinking and clear defect reporting - skills I bring directly to test design, execution, and release quality assessment.
 
 ### What am I up to?
